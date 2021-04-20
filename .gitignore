@@ -1,1 +1,7 @@
 /.idea/
+/cert/ca.srl
+/cert/ca.key
+/cert/ca.cert
+/cert/server.crt
+/cert/server.csr
+/cert/server.key
